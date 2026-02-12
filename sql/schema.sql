@@ -1,4 +1,3 @@
-
 -- FULL DATABASE RESET (for verification/trial runs)
 
 DROP TABLE IF EXISTS dogs CASCADE;
