@@ -13,6 +13,10 @@ This project builds an end-to-end data engineering and analytics pipeline using 
 - NoSQL replication and index comparison using MongoDB
 - Role-based access control implementation
 
+## NoSQL Component (MongoDB)
+MongoDB was used in the original project to replicate a subset of the relational data using a document-oriented schema and to compare indexing and query performance against PostgreSQL. The MongoDB implementation and benchmarks are discussed in the accompanying project report; this repository focuses on the core relational pipeline and analytics artifacts.
+
+
 ## Technologies Used
 - Python (pandas, SQLAlchemy, psycopg2)
 - PostgreSQL
