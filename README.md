@@ -1,4 +1,4 @@
-# In the folder "project-directions," the assignment file gives directions of the SQL Project contained in this repo, as well as a completed file answering all the directions in the pdf named "SQL Project Complete". My whole project & analysis is there.
+# Note: In the folder "project-directions," the assignment file gives directions of the SQL Project contained in this repo, as well as a completed file answering all the directions in the pdf named "SQL Project Complete". My whole project & analysis is there.
 
 # NYC Dog Licensing Data Pipeline
 
